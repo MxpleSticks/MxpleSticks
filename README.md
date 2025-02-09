@@ -25,10 +25,6 @@ const skills = {
 };
 ```
 
-## GitHub Stats
-
-![MapleSticks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MxpleSticks&show_icons=true&theme=dark)
-
 
 ## Current Focus
 
