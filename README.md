@@ -1,6 +1,6 @@
 # 🍁 Hello, I'm MapleSticks! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=MxpleSticks&color=blue) [![GitHub followers](https://img.shields.io/github/followers/MapleSticks?label=Follow&style=social)](https://github.com/MxpleSticks)
+![Profile Views](https://komarev.com/ghpvc/?username=MxpleSticks&color=blue) [![GitHub followers](https://img.shields.io/github/followers/MxpleSticks?label=Follow&style=social)](https://github.com/MxpleSticks)
 
 ## 🌲 About Me
 
